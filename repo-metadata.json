@@ -1,0 +1,19 @@
+{
+  "recommended_repo_name": "zhangxiaojun-style-interview-question-designer-skill",
+  "recommended_skill_display_name": "Zhang Xiaojun-Style Interview Question Designer",
+  "skill_package_name": "zhangxiaojun-interview-question-designer",
+  "description": "A Codex skill for generating Zhang Xiaojun-style long-form Chinese technology interview question plans.",
+  "topics": [
+    "codex-skill",
+    "interview",
+    "chinese",
+    "ai",
+    "technology",
+    "podcast",
+    "zhangxiaojun",
+    "question-generation",
+    "prompt-engineering"
+  ],
+  "license": "MIT"
+}
+

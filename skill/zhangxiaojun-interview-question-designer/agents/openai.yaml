@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zhang Xiaojun Interview Question Designer"
+  short_description: "Generate Zhang-style tech interview questions"
+  default_prompt: "Use $zhangxiaojun-interview-question-designer to create a deep interview question plan for this guest."
