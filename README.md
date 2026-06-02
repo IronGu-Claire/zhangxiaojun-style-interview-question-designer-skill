@@ -51,7 +51,6 @@ cp -R skill/zhangxiaojun-interview-question-designer ~/.codex/skills/
 - [效果评估方法](docs/EVALUATION.zh-CN.md)
 - [English usage guide](docs/USAGE.en.md)
 - [English tutorial](docs/TUTORIAL.en.md)
-- [发布检查清单](RELEASE_CHECKLIST.md)
 
 ## 效果示例
 
