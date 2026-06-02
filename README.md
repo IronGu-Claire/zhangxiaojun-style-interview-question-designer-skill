@@ -49,7 +49,6 @@ cp -R skill/zhangxiaojun-interview-question-designer ~/.codex/skills/
 - [中文使用教程](docs/USAGE.zh-CN.md)
 - [中文完整教程](docs/TUTORIAL.zh-CN.md)
 - [效果评估方法](docs/EVALUATION.zh-CN.md)
-- [发布到 GitHub](docs/PUBLISH_TO_GITHUB.zh-CN.md)
 - [English usage guide](docs/USAGE.en.md)
 - [English tutorial](docs/TUTORIAL.en.md)
 - [发布检查清单](RELEASE_CHECKLIST.md)
